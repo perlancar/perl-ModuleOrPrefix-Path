@@ -1,11 +1,12 @@
 package ModuleOrPrefix::Path;
 
-use 5.010;
+use 5.010001;
 use strict;
 use warnings;
 use File::Basename 'dirname';
 
 # VERSION
+# DATE
 
 require Exporter;
 our @ISA       = qw(Exporter);
